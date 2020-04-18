@@ -5,6 +5,7 @@
 - Navigateur web: https://www.mozilla.org/fr/firefox/new/
 - Y installer au moins: https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/ et https://addons.mozilla.org/fr/firefox/addon/ublock-origin/
 - Pour remplacer youtube: https://invidio.us/watch?v=R0npR3Ata7Q (en vidéo c'est un ami) et installer https://addons.mozilla.org/fr/firefox/addon/hooktube-redirect/ dans le navigateur pour faciliter son utilisation (Le lien youtube se transforme automatiquement en lien safe)
+- office: https://fr.libreoffice.org/download/telecharger-libreoffice/ / https://www.scribus.net/
 - Pour faire des traductions : https://www.deepl.com/translator (bien meilleur que les autres)
 - Mail: https://protonmail.com/fr/ ou https://tutanota.com/fr/ (avec un calendrier, je préfère protonmail)
 - Texto: https://signal.org/fr/
@@ -24,5 +25,10 @@
 - Pour centraliser certain outils: https://rambox.pro/#home
 - Pour plus tard : Pour virer android de ton téléphone et y mettre un vrai truc cool : https://e.foundation/products-2/?lang=fr
 - Tester son mail : https://haveibeenpwned.com/
+- 3d: https://www.blender.org/
+- images : https://www.gimp.org/downloads/
+- dessin: https://inkscape.org/fr/
+- video: https://www.videolan.org/vlc/index.fr.html
+- audio: https://audacity.fr/
 
 Ne pas stocker vos Mdp dans votre navigateur web
