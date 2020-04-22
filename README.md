@@ -5,7 +5,7 @@
 - Navigateur web: https://www.mozilla.org/fr/firefox/new/
 - Y installer au moins: https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/ et https://addons.mozilla.org/fr/firefox/addon/ublock-origin/
 - Pour remplacer youtube: https://invidio.us/watch?v=R0npR3Ata7Q (en vidéo c'est un ami) et installer https://addons.mozilla.org/fr/firefox/addon/hooktube-redirect/ dans le navigateur pour faciliter son utilisation (Le lien youtube se transforme automatiquement en lien safe)
-- office: https://fr.libreoffice.org/download/telecharger-libreoffice/ / https://www.scribus.net/
+- office: https://fr.libreoffice.org/download/telecharger-libreoffice/ / https://www.scribus.net/ ou https://www.onlyoffice.com/fr/download.aspx (version autoheberge)
 - Pour faire des traductions : https://www.deepl.com/translator (bien meilleur que les autres)
 - Mail: https://protonmail.com/fr/ ou https://tutanota.com/fr/ (avec un calendrier, je préfère protonmail)
 - Texto: https://signal.org/fr/
