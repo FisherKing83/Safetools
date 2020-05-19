@@ -14,7 +14,7 @@
 - Prises de notes chiffrées: https://standardnotes.org/ ou https://turtlapp.com/ (encore en beta)
 - Prises de notes en markdown: https://www.zettlr.com/ https://notable.md/# ou https://www.qownnotes.org/ (integration nextcloud)
 - Calendrier: Protoncalendar (pas encore dispo pour tout le monde)
-- Cloud: Celui que tu veux mais avec https://cryptomator.org/ ou utiliser https://www.pcloud.com/fr/ (jamais utilisé mais sur le papier ça semble cool !) ou les français de https://cozy.io/fr/ ou https://nextcloud.com/ pour le mettre sur un nas par exemple.
+- Cloud: https://www.infomaniak.com/fr/kdrive/ ou celui que tu veux mais avec https://cryptomator.org/ ou utiliser https://www.pcloud.com/fr/ (jamais utilisé mais sur le papier ça semble cool !) ou les français de https://cozy.io/fr/ ou https://nextcloud.com/ pour le mettre sur un nas par exemple.
 - Map: https://osmand.net/
 - Visio conf: https://meet.jit.si/
 - Partage de fichiers : https://send.firefox.com/
