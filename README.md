@@ -6,7 +6,8 @@
 - Y installer au moins: https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/ et https://addons.mozilla.org/fr/firefox/addon/ublock-origin/
 - Pour remplacer youtube: https://invidio.us/watch?v=R0npR3Ata7Q (en vidéo c'est un ami) et installer https://addons.mozilla.org/fr/firefox/addon/hooktube-redirect/ dans le navigateur pour faciliter son utilisation (Le lien youtube se transforme automatiquement en lien safe)
 - https://addons.mozilla.org/fr/firefox/addon/privacy-redirect/ Privacy Redirect a pour but de vous protéger de Twitter, Instagram, Google Maps et YouTube en redirigeant toutes les requêtes qui leur sont adressées vers des services libres et alternatifs comme Nitter, Invidious, Bibliogram, OpenStreetMap. Mais cela vous permet aussi de profiter de ces services sans rencontrer les problèmes de bulles ou de recommandations biaisées proposés par les algorithmes.
-- office: https://fr.libreoffice.org/download/telecharger-libreoffice/ / https://www.scribus.net/ ou https://www.onlyoffice.com/fr/download.aspx (version autoheberge)
+- Traitement de texte et tableur: https://fr.libreoffice.org/download/telecharger-libreoffice/ / https://www.scribus.net/ ou https://www.onlyoffice.com/fr/download.aspx (version autoheberge)
+- Corriger les fautes : https://languagetool.org/fr ou merci-app (payant)
 - Pour faire des traductions : https://www.deepl.com/translator (bien meilleur que les autres)
 - Mail: https://protonmail.com/fr/ ou https://tutanota.com/fr/ (avec un calendrier, je préfère protonmail)
 - Texto: https://signal.org/fr/
@@ -27,9 +28,16 @@
 - Pour plus tard : Pour virer android de ton téléphone et y mettre un vrai truc cool : https://e.foundation/products-2/?lang=fr
 - Tester son mail : https://haveibeenpwned.com/
 - 3d: https://www.blender.org/
-- images : https://www.gimp.org/downloads/
+- images : https://www.gimp.org/downloads/ - https://github.com/photoprism/photoprism
 - dessin: https://inkscape.org/fr/
 - video: https://www.videolan.org/vlc/index.fr.html
 - audio: https://audacity.fr/
+
+- Gestion de projet/vie et organisation : https://anytype.io/app quand il sera prêt (notion.so en open source) https://airbyte.io/ - https://www.taiga.io/ - 
+- Prise de rendez-vous : https://easyappointments.org/features/
+- Automation : https://n8n.io/
+- Analytics : https://fr.matomo.org/ 
+- Kanban : https://wekan.github.io/
+- Database: https://www.budibase.com/ - https://baserow.io/
 
 Ne pas stocker vos Mdp dans votre navigateur web
